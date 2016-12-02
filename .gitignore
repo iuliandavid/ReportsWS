@@ -1,0 +1,9 @@
+
+**/schema_prod.sql
+.classpath
+.project
+.gradle/
+.settings/
+bin/
+build/
+
